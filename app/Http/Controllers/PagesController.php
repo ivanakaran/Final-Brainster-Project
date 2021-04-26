@@ -14,7 +14,7 @@ class PagesController extends Controller
 
     public function programming()
     {
-      return view('channels.programming');
+      return view('index');
     }
 
    
